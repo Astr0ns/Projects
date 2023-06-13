@@ -21,7 +21,7 @@ body {
 
     .heart:before {
         content: '\2665';
-        color: red;
+        color: rgb(0, 170, 0);
     }
 
     .ily {
