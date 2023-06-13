@@ -15,6 +15,10 @@ body {
         height: 100vh;
     }
 
+    .pc {
+        display: none;
+    }
+
     .heart:before {
         content: '\2665';
         color: red;
@@ -48,7 +52,9 @@ body {
         border-radius: 50px;
         margin-left: 40%;
     }
-    button, .mail{
+
+    button,
+    .mail {
         color: aliceblue;
         margin-top: 30%;
         font-size: 25px;
